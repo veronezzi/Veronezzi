@@ -1,7 +1,7 @@
 ### Olá Eu sou o Guilherme 👋
 -🔭 Hoje trabalho com Java/Kotlin
 
--🌱 Estudando Android
+-🌱 Desenvolvedor Android
 
 
 <div>
