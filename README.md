@@ -1,8 +1,14 @@
 ### Olá Eu sou o Guilherme 👋
--🔭 Hoje trabalho com desenvolvimento android Java/Kotlin
+- Sou um apaixonado desenvolvedor Android com mais de 3 anos de experiência, dedicado a criar aplicativos incríveis que proporcionam experiências excepcionais aos usuários. Minha jornada no mundo do desenvolvimento móvel me permitiu aprimorar minhas habilidades em diversas tecnologias e frameworks Android.
 
--🌱 Desenvolvedor Android
+## 💻 Tecnologias e Habilidades
 
+- Desenvolvimento Android nativo com Java e Kotlin
+- Arquitetura de aplicativos usando MVVM e Clean Architecture
+- Integração de APIs RESTful e serviços web
+- UI/UX responsiva e intuitiva
+- Testes unitários e instrumentados
+- Colaboração em equipes ágeis usando metodologias como Scrum
 
 <div>
   <a href="https://github.com/veronezzi">
