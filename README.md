@@ -1,5 +1,5 @@
 ### Olá Eu sou o Guilherme 👋
--🔭 Hoje trabalho com Java/Kotlin
+-🔭 Hoje trabalho com desenvolvimento android Java/Kotlin
 
 -🌱 Desenvolvedor Android
 
