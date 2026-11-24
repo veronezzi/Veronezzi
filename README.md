@@ -1,6 +1,6 @@
-### Olá, eu sou o Guilherme 👋
+# Olá, eu sou o Guilherme 👋
 
-Sou um desenvolvedor Android apaixonado, com mais de 3 anos de experiência criando aplicativos que entregam experiências excepcionais aos usuários. Minha jornada no desenvolvimento móvel me permitiu dominar diversas tecnologias e frameworks Android.
+Desenvolvedor Android apaixonado, com mais de 3 anos de experiência criando aplicativos que entregam experiências excepcionais aos usuários. Minha jornada no desenvolvimento móvel me permitiu dominar diversas tecnologias e frameworks Android.
 
 ## 💻 Tecnologias e Habilidades
 
@@ -17,6 +17,8 @@ Sou um desenvolvedor Android apaixonado, com mais de 3 anos de experiência cria
 - **weatherfeed-design-system** — biblioteca de componentes Jetpack Compose
 - **cortes-studio** — pipeline de cortes verticais 9:16
 - **ps5-game-doctor** — diagnóstico de jogos no PS5 jailbreak
+- **RiftLog** — tracker de League of Legends para Android
+- **claude-skills** — coleção de skills para o Claude
 
 ## 📊 Estatísticas
 
